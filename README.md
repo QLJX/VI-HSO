@@ -1,1 +1,1 @@
-# VI-HSO is about to open source。
+# VI-HSO is about to open source.
